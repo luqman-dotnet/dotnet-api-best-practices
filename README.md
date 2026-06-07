@@ -23,73 +23,39 @@ This repository is designed to help developers write clean, consistent, and prod
 dotnet-api-best-practices/
 
 │
-
 ├── src/
-
 │   ├── ApiVersioning/
-
 │   ├── ErrorHandling/
-
 │   ├── Logging/
-
 │   ├── Validation/
-
 │   ├── Pagination/
-
 │   ├── Filtering/
-
 │   ├── DTOs/
-
 │   ├── Mapping/
-
 │   ├── Middleware/
-
 │   ├── Authentication/
-
 │   └── Authorization/
-
 │
-
 ├── samples/
-
 │   ├── MinimalApiExample/
-
 │   ├── CleanControllerExample/
-
 │   └── GlobalExceptionHandler/
-
 │
-
 ├── docs/
-
 │   ├── api-versioning.md
-
 │   ├── error-handling.md
-
 │   ├── logging.md
-
 │   ├── validation.md
-
 │   ├── pagination.md
-
 │   ├── filtering.md
-
 │   ├── mapping.md
-
 │   ├── solid-principles.md
-
 │   └── architecture.md
-
 │
-
 ├── tests/
-
 │   ├── ApiTests/
-
 │   └── UnitTests/
-
 │
-
 └── README.md
 
 ****
