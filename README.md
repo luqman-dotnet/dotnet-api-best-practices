@@ -19,13 +19,51 @@ This repository is designed to help developers write clean, consistent, and prod
 ---
 
 ## 📁 Repository Structure
+dotnet-api-best-practices/
+│
+├── src/
+│   ├── ApiVersioning/
+│   ├── ErrorHandling/
+│   ├── Logging/
+│   ├── Validation/
+│   ├── Pagination/
+│   ├── Filtering/
+│   ├── DTOs/
+│   ├── Mapping/
+│   ├── Middleware/
+│   ├── Authentication/
+│   └── Authorization/
+│
+├── samples/
+│   ├── MinimalApiExample/
+│   ├── CleanControllerExample/
+│   └── GlobalExceptionHandler/
+│
+├── docs/
+│   ├── api-versioning.md
+│   ├── error-handling.md
+│   ├── logging.md
+│   ├── validation.md
+│   ├── pagination.md
+│   ├── filtering.md
+│   ├── mapping.md
+│   ├── solid-principles.md
+│   └── architecture.md
+│
+├── tests/
+│   ├── ApiTests/
+│   └── UnitTests/
+│
+└── README.md
 
 ****
 src/                → Best practice implementations
-samples/            → Small runnable examples
-docs/               → Deep-dive explanations
-tests/              → Unit + integration tests
 
+samples/            → Small runnable examples
+
+docs/               → Deep-dive explanations
+
+tests/              → Unit + integration tests
 
 ---
 
@@ -98,8 +136,8 @@ tests/              → Unit + integration tests
 Each folder under `/samples` contains a small runnable project demonstrating a specific best practice.
 
 cd samples/MinimalApiExample
-dotnet run
 
+dotnet run
 
 ---
 
@@ -114,11 +152,21 @@ Feel free to open issues, suggest improvements, or submit PRs.
 
 If you find this useful, please ⭐ star the repository — it helps others discover it.
 
+dotnet
+csharp
+webapi
+aspnetcore
+best-practices
+clean-code
+rest-api
+design-patterns
+solid
+
 ---
 
 ## 📬 Contact
 
 Created by **Luqman Cheema**  
-Senior .NET Developer | API Specialist | Cloud‑Ready Engineer
+Senior Application Developer| API Specialist | Cloud-Ready 
 
 
